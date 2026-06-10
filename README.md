@@ -18,5 +18,3 @@
 ## Etherscan
 https://sepolia.etherscan.io/address/0xd18fd438eE4AAc20EBC8AB5C4CA0B6b690BD5F8b
 
-## Автор
-[ Twitter/X]
